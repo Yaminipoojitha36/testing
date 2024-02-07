@@ -1,4 +1,4 @@
-1.commits
-2.pushes
+1.commit
+2.push
 3.delete
 4.destroy
