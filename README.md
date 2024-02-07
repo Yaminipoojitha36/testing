@@ -1,4 +1,8 @@
-1.commit
-2.push
-3.delete
-4.destroy
+pipeline {
+    agent any
+    stages{
+        stage('compile'){
+            steps{
+                echo 'Hello World'
+            }
+        }
